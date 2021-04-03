@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/IsaacArnold/dad-jokes-app/static/css/main.409306c5.chunk.css",
-    "main.js": "/IsaacArnold/dad-jokes-app/static/js/main.32a751b1.chunk.js",
-    "main.js.map": "/IsaacArnold/dad-jokes-app/static/js/main.32a751b1.chunk.js.map",
-    "runtime-main.js": "/IsaacArnold/dad-jokes-app/static/js/runtime-main.185b70bd.js",
-    "runtime-main.js.map": "/IsaacArnold/dad-jokes-app/static/js/runtime-main.185b70bd.js.map",
-    "static/js/2.ad98ff45.chunk.js": "/IsaacArnold/dad-jokes-app/static/js/2.ad98ff45.chunk.js",
-    "static/js/2.ad98ff45.chunk.js.map": "/IsaacArnold/dad-jokes-app/static/js/2.ad98ff45.chunk.js.map",
-    "static/js/3.a333c5ec.chunk.js": "/IsaacArnold/dad-jokes-app/static/js/3.a333c5ec.chunk.js",
-    "static/js/3.a333c5ec.chunk.js.map": "/IsaacArnold/dad-jokes-app/static/js/3.a333c5ec.chunk.js.map",
-    "index.html": "/IsaacArnold/dad-jokes-app/index.html",
-    "static/css/main.409306c5.chunk.css.map": "/IsaacArnold/dad-jokes-app/static/css/main.409306c5.chunk.css.map",
-    "static/js/2.ad98ff45.chunk.js.LICENSE.txt": "/IsaacArnold/dad-jokes-app/static/js/2.ad98ff45.chunk.js.LICENSE.txt"
+    "main.css": "/dad-jokes-app/static/css/main.409306c5.chunk.css",
+    "main.js": "/dad-jokes-app/static/js/main.32a751b1.chunk.js",
+    "main.js.map": "/dad-jokes-app/static/js/main.32a751b1.chunk.js.map",
+    "runtime-main.js": "/dad-jokes-app/static/js/runtime-main.72a5bf29.js",
+    "runtime-main.js.map": "/dad-jokes-app/static/js/runtime-main.72a5bf29.js.map",
+    "static/js/2.ad98ff45.chunk.js": "/dad-jokes-app/static/js/2.ad98ff45.chunk.js",
+    "static/js/2.ad98ff45.chunk.js.map": "/dad-jokes-app/static/js/2.ad98ff45.chunk.js.map",
+    "static/js/3.a333c5ec.chunk.js": "/dad-jokes-app/static/js/3.a333c5ec.chunk.js",
+    "static/js/3.a333c5ec.chunk.js.map": "/dad-jokes-app/static/js/3.a333c5ec.chunk.js.map",
+    "index.html": "/dad-jokes-app/index.html",
+    "static/css/main.409306c5.chunk.css.map": "/dad-jokes-app/static/css/main.409306c5.chunk.css.map",
+    "static/js/2.ad98ff45.chunk.js.LICENSE.txt": "/dad-jokes-app/static/js/2.ad98ff45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.185b70bd.js",
+    "static/js/runtime-main.72a5bf29.js",
     "static/js/2.ad98ff45.chunk.js",
     "static/css/main.409306c5.chunk.css",
     "static/js/main.32a751b1.chunk.js"
