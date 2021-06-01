@@ -5,11 +5,11 @@ import Title from "./Title";
 
 const JokeWrapper = (props) => {
   return (
-    <>
+    <React.Fragment>
       <Title />
       <JokeContent joke={props.joke} />
       <Button getNewJoke={props.newJoke} />
-    </>
+    </React.Fragment>
   );
 };
 
